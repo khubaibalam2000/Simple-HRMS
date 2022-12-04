@@ -1,0 +1,8 @@
+li {
+    display: flex;
+    margin-left: 20px;
+}
+
+navbar-nav:hover {
+    left: 0; /* On mouse-over, make the elements appear as they should */
+  }
